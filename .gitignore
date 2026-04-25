@@ -1,0 +1,22 @@
+# Python bytecode and cache directories.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenvs (in case you create one for local testing).
+.venv/
+venv/
+env/
+
+# Editor / IDE noise.
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Local environment overrides -- never commit secrets.
+.env
+.env.local
+
+# Atomic-write temp file produced by state.py if a run is interrupted.
+state.json.tmp
