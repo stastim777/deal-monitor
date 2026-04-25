@@ -1,0 +1,9 @@
+# Pinned to minor versions to keep CI runs reproducible while still
+# picking up patch-level fixes automatically.
+
+# HTTP client. Used for fetching sheet, web pages, RSS feeds, and ntfy.
+requests>=2.31,<3.0
+
+# HTML parser for url_price selectors. lxml would be faster but requires
+# a system library; html.parser (built into Python) is good enough here.
+beautifulsoup4>=4.12,<5.0

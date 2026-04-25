@@ -1,0 +1,6 @@
+enabled,name,type,url,selector_or_keywords,threshold_price,cooldown_hours,notes
+TRUE,Innsbrook tee time May 1,url_price,https://example.com/innsbrook-may-1-page,.price-display,50,12,Find the actual booking page that loads without JS or use the underlying API
+FALSE,Nespresso Vertuo pods at Target,url_price,https://www.target.com/p/nespresso-vertuo-pods/-/A-XXXXXXXX,span[data-test='product-price'],50,24,Update the URL to the actual product page; selector may need tweaking
+TRUE,Slickdeals frontpage,rss_keyword,https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1,"nespresso,90% off,95% off,price mistake",,6,Catches price-mistake style deals on the front page
+TRUE,Reddit r/HomeDepotDeals,rss_keyword,https://www.reddit.com/r/HomeDepotDeals/.rss,"plant,flower,bogo,buy one get one,perennial",,12,Local hardware BOGO deals on plants and flowers
+TRUE,Reddit r/Coffee deals,rss_keyword,https://www.reddit.com/r/Coffee/search.rss?q=deal+OR+sale&restrict_sr=on&sort=new,"nespresso,vertuo,pods",,12,Pod-specific coffee deals
