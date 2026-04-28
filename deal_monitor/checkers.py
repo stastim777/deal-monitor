@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 # 'python-requests/x.y.z' UA, and a real-looking UA reduces friction.
 # The URL is informational; replace with your fork URL after deploying.
 USER_AGENT = (
-    "deal-monitor/1.0 (by /u/YOUR-REDDIT-USERNAME; "
+    "deal-monitor/1.0 (by /u/brattok7; "
     "personal price tracker; +https://github.com/stastim777/deal-monitor)"
 )
 # Default request timeout in seconds. Long enough for slow sites, short
