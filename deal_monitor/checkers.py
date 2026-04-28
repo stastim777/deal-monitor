@@ -32,7 +32,7 @@ logger = logging.getLogger(__name__)
 # The URL is informational; replace with your fork URL after deploying.
 USER_AGENT = (
     "deal-monitor/1.0 (by /u/YOUR-REDDIT-USERNAME; "
-    "personal price tracker; +https://github.com/YOUR-GH-USERNAME/deal-monitor)"
+    "personal price tracker; +https://github.com/stastim777/deal-monitor)"
 )
 # Default request timeout in seconds. Long enough for slow sites, short
 # enough that one stuck request can't block the rest of the run.
