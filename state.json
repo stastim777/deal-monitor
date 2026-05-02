@@ -92,7 +92,6 @@
   },
   "slickdeals_frontpage_80_85_off": {
     "seen_ids": [
-      "thread-18822175",
       "thread-19436742",
       "thread-19475319",
       "thread-19476177",
@@ -100,7 +99,6 @@
       "thread-19477290",
       "thread-19477797",
       "thread-19479084",
-      "thread-19479528",
       "thread-19480596",
       "thread-19480599",
       "thread-19481145",
@@ -115,13 +113,14 @@
       "thread-19482363",
       "thread-19482552",
       "thread-19482714",
+      "thread-19482888",
+      "thread-19482927",
       "thread-19483143",
       "thread-19483461"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "seen_ids": [
-      "thread-18822175",
       "thread-19436742",
       "thread-19475319",
       "thread-19476177",
@@ -129,7 +128,6 @@
       "thread-19477290",
       "thread-19477797",
       "thread-19479084",
-      "thread-19479528",
       "thread-19480596",
       "thread-19480599",
       "thread-19481145",
@@ -144,13 +142,14 @@
       "thread-19482363",
       "thread-19482552",
       "thread-19482714",
+      "thread-19482888",
+      "thread-19482927",
       "thread-19483143",
       "thread-19483461"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-18822175",
       "thread-19436742",
       "thread-19475319",
       "thread-19476177",
@@ -158,7 +157,6 @@
       "thread-19477290",
       "thread-19477797",
       "thread-19479084",
-      "thread-19479528",
       "thread-19480596",
       "thread-19480599",
       "thread-19481145",
@@ -173,6 +171,8 @@
       "thread-19482363",
       "thread-19482552",
       "thread-19482714",
+      "thread-19482888",
+      "thread-19482927",
       "thread-19483143",
       "thread-19483461"
     ]
