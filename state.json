@@ -92,17 +92,17 @@
   },
   "slickdeals_frontpage_80_85_off": {
     "seen_ids": [
-      "thread-19707933",
       "thread-19714842",
-      "thread-19715286",
       "thread-19716078",
       "thread-19716978",
       "thread-19717155",
-      "thread-19717383",
+      "thread-19717524",
       "thread-19717845",
       "thread-19717983",
+      "thread-19718106",
       "thread-19718214",
-      "thread-19718229",
+      "thread-19718247",
+      "thread-19718385",
       "thread-19718391",
       "thread-19718451",
       "thread-19718469",
@@ -115,23 +115,23 @@
       "thread-19718994",
       "thread-19719108",
       "thread-19719219",
-      "thread-19719252",
-      "thread-19719486"
+      "thread-19719246",
+      "thread-19719252"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "seen_ids": [
-      "thread-19707933",
       "thread-19714842",
-      "thread-19715286",
       "thread-19716078",
       "thread-19716978",
       "thread-19717155",
-      "thread-19717383",
+      "thread-19717524",
       "thread-19717845",
       "thread-19717983",
+      "thread-19718106",
       "thread-19718214",
-      "thread-19718229",
+      "thread-19718247",
+      "thread-19718385",
       "thread-19718391",
       "thread-19718451",
       "thread-19718469",
@@ -144,23 +144,23 @@
       "thread-19718994",
       "thread-19719108",
       "thread-19719219",
-      "thread-19719252",
-      "thread-19719486"
+      "thread-19719246",
+      "thread-19719252"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-19707933",
       "thread-19714842",
-      "thread-19715286",
       "thread-19716078",
       "thread-19716978",
       "thread-19717155",
-      "thread-19717383",
+      "thread-19717524",
       "thread-19717845",
       "thread-19717983",
+      "thread-19718106",
       "thread-19718214",
-      "thread-19718229",
+      "thread-19718247",
+      "thread-19718385",
       "thread-19718391",
       "thread-19718451",
       "thread-19718469",
@@ -173,8 +173,8 @@
       "thread-19718994",
       "thread-19719108",
       "thread-19719219",
-      "thread-19719252",
-      "thread-19719486"
+      "thread-19719246",
+      "thread-19719252"
     ]
   },
   "trd_fishing_lure": {}
