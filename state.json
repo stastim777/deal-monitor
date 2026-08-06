@@ -4,7 +4,6 @@
   "nespresso_vertuo_pods_at_target": {},
   "reddit_r_coffee_deals": {
     "seen_ids": [
-      "t3_1r30yho",
       "t3_1r8jxs0",
       "t3_1rfiegb",
       "t3_1ribeut",
@@ -28,7 +27,8 @@
       "t3_1uil86v",
       "t3_1ulr9vv",
       "t3_1uuy89i",
-      "t3_1v192xp"
+      "t3_1v192xp",
+      "t3_1v3he0e"
     ]
   },
   "reddit_r_homedepotdeals": {
@@ -94,20 +94,21 @@
   "slickdeals_frontpage_80_85_off": {
     "last_alert_at": "2026-08-04T03:34:13.897590+00:00",
     "seen_ids": [
-      "thread-18822175",
+      "thread-19809987",
       "thread-19828524",
+      "thread-19831299",
+      "thread-19833876",
       "thread-19835394",
       "thread-19836915",
       "thread-19838298",
       "thread-19839165",
+      "thread-19839705",
       "thread-19840308",
-      "thread-19841301",
       "thread-19842072",
-      "thread-19843284",
+      "thread-19845399",
       "thread-19845432",
       "thread-19845795",
       "thread-19845807",
-      "thread-19845834",
       "thread-19845882",
       "thread-19845924",
       "thread-19845969",
@@ -117,27 +118,27 @@
       "thread-19847082",
       "thread-19847100",
       "thread-19847211",
-      "thread-19847217",
       "thread-19847832"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
-      "thread-18822175",
+      "thread-19809987",
       "thread-19828524",
+      "thread-19831299",
+      "thread-19833876",
       "thread-19835394",
       "thread-19836915",
       "thread-19838298",
       "thread-19839165",
+      "thread-19839705",
       "thread-19840308",
-      "thread-19841301",
       "thread-19842072",
-      "thread-19843284",
+      "thread-19845399",
       "thread-19845432",
       "thread-19845795",
       "thread-19845807",
-      "thread-19845834",
       "thread-19845882",
       "thread-19845924",
       "thread-19845969",
@@ -147,26 +148,26 @@
       "thread-19847082",
       "thread-19847100",
       "thread-19847211",
-      "thread-19847217",
       "thread-19847832"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-18822175",
+      "thread-19809987",
       "thread-19828524",
+      "thread-19831299",
+      "thread-19833876",
       "thread-19835394",
       "thread-19836915",
       "thread-19838298",
       "thread-19839165",
+      "thread-19839705",
       "thread-19840308",
-      "thread-19841301",
       "thread-19842072",
-      "thread-19843284",
+      "thread-19845399",
       "thread-19845432",
       "thread-19845795",
       "thread-19845807",
-      "thread-19845834",
       "thread-19845882",
       "thread-19845924",
       "thread-19845969",
@@ -176,7 +177,6 @@
       "thread-19847082",
       "thread-19847100",
       "thread-19847211",
-      "thread-19847217",
       "thread-19847832"
     ]
   },
