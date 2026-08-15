@@ -94,7 +94,7 @@
   "slickdeals_frontpage_80_85_off": {
     "last_alert_at": "2026-08-04T03:34:13.897590+00:00",
     "seen_ids": [
-      "thread-19738713",
+      "thread-18822175",
       "thread-19871100",
       "thread-19871991",
       "thread-19873629",
@@ -106,7 +106,6 @@
       "thread-19875681",
       "thread-19875789",
       "thread-19876503",
-      "thread-19876767",
       "thread-19877127",
       "thread-19877409",
       "thread-19877505",
@@ -118,13 +117,14 @@
       "thread-19879371",
       "thread-19879455",
       "thread-19879716",
+      "thread-19880184",
       "thread-19880418"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
-      "thread-19738713",
+      "thread-18822175",
       "thread-19871100",
       "thread-19871991",
       "thread-19873629",
@@ -136,7 +136,6 @@
       "thread-19875681",
       "thread-19875789",
       "thread-19876503",
-      "thread-19876767",
       "thread-19877127",
       "thread-19877409",
       "thread-19877505",
@@ -148,12 +147,13 @@
       "thread-19879371",
       "thread-19879455",
       "thread-19879716",
+      "thread-19880184",
       "thread-19880418"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-19738713",
+      "thread-18822175",
       "thread-19871100",
       "thread-19871991",
       "thread-19873629",
@@ -165,7 +165,6 @@
       "thread-19875681",
       "thread-19875789",
       "thread-19876503",
-      "thread-19876767",
       "thread-19877127",
       "thread-19877409",
       "thread-19877505",
@@ -177,6 +176,7 @@
       "thread-19879371",
       "thread-19879455",
       "thread-19879716",
+      "thread-19880184",
       "thread-19880418"
     ]
   },
