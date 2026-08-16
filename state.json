@@ -36,8 +36,6 @@
     "seen_ids": [
       "t3_1u6qbio",
       "t3_1ujhhoc",
-      "t3_1veebrn",
-      "t3_1vg8925",
       "t3_1vi1gr9",
       "t3_1vigw5h",
       "t3_1viwskm",
@@ -58,7 +56,9 @@
       "t3_1vmuxrk",
       "t3_1vnllhg",
       "t3_1vpd0hq",
-      "t3_1vpi0zr"
+      "t3_1vpi0zr",
+      "t3_1vpvw62",
+      "t3_1vpxtwb"
     ]
   },
   "slickdeals_frontpage": {
@@ -95,6 +95,7 @@
     "last_alert_at": "2026-08-04T03:34:13.897590+00:00",
     "seen_ids": [
       "thread-18822175",
+      "thread-19830264",
       "thread-19855197",
       "thread-19865529",
       "thread-19866243",
@@ -105,18 +106,17 @@
       "thread-19875081",
       "thread-19876623",
       "thread-19878501",
-      "thread-19881060",
       "thread-19881345",
-      "thread-19882287",
       "thread-19882938",
-      "thread-19883139",
       "thread-19883235",
       "thread-19883559",
-      "thread-19883667",
       "thread-19883841",
+      "thread-19883916",
       "thread-19883946",
-      "thread-19883967",
       "thread-19884057",
+      "thread-19884108",
+      "thread-19884249",
+      "thread-19884402",
       "thread-19884423",
       "thread-19884621"
     ]
@@ -125,6 +125,7 @@
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
       "thread-18822175",
+      "thread-19830264",
       "thread-19855197",
       "thread-19865529",
       "thread-19866243",
@@ -135,18 +136,17 @@
       "thread-19875081",
       "thread-19876623",
       "thread-19878501",
-      "thread-19881060",
       "thread-19881345",
-      "thread-19882287",
       "thread-19882938",
-      "thread-19883139",
       "thread-19883235",
       "thread-19883559",
-      "thread-19883667",
       "thread-19883841",
+      "thread-19883916",
       "thread-19883946",
-      "thread-19883967",
       "thread-19884057",
+      "thread-19884108",
+      "thread-19884249",
+      "thread-19884402",
       "thread-19884423",
       "thread-19884621"
     ]
@@ -154,6 +154,7 @@
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
       "thread-18822175",
+      "thread-19830264",
       "thread-19855197",
       "thread-19865529",
       "thread-19866243",
@@ -164,18 +165,17 @@
       "thread-19875081",
       "thread-19876623",
       "thread-19878501",
-      "thread-19881060",
       "thread-19881345",
-      "thread-19882287",
       "thread-19882938",
-      "thread-19883139",
       "thread-19883235",
       "thread-19883559",
-      "thread-19883667",
       "thread-19883841",
+      "thread-19883916",
       "thread-19883946",
-      "thread-19883967",
       "thread-19884057",
+      "thread-19884108",
+      "thread-19884249",
+      "thread-19884402",
       "thread-19884423",
       "thread-19884621"
     ]
