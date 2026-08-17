@@ -36,7 +36,6 @@
     "seen_ids": [
       "t3_1u6qbio",
       "t3_1ujhhoc",
-      "t3_1vj534n",
       "t3_1vjayl8",
       "t3_1vjqnda",
       "t3_1vjuloq",
@@ -58,7 +57,8 @@
       "t3_1vpxtwb",
       "t3_1vq1tbj",
       "t3_1vq6hr6",
-      "t3_1vqcozk"
+      "t3_1vqcozk",
+      "t3_1vqt6d7"
     ]
   },
   "slickdeals_frontpage": {
@@ -94,9 +94,12 @@
   "slickdeals_frontpage_80_85_off": {
     "last_alert_at": "2026-08-04T03:34:13.897590+00:00",
     "seen_ids": [
+      "thread-18822175",
+      "thread-19800771",
+      "thread-19868541",
       "thread-19871982",
-      "thread-19879083",
-      "thread-19879182",
+      "thread-19872009",
+      "thread-19873605",
       "thread-19881075",
       "thread-19881219",
       "thread-19883019",
@@ -104,29 +107,29 @@
       "thread-19884213",
       "thread-19884396",
       "thread-19884798",
-      "thread-19884915",
       "thread-19885032",
       "thread-19885086",
       "thread-19885116",
       "thread-19885311",
       "thread-19885515",
-      "thread-19885917",
       "thread-19886058",
       "thread-19886082",
       "thread-19886610",
       "thread-19886634",
-      "thread-19886727",
       "thread-19886832",
-      "thread-19887933",
-      "thread-19888005"
+      "thread-19887177",
+      "thread-19887933"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
+      "thread-18822175",
+      "thread-19800771",
+      "thread-19868541",
       "thread-19871982",
-      "thread-19879083",
-      "thread-19879182",
+      "thread-19872009",
+      "thread-19873605",
       "thread-19881075",
       "thread-19881219",
       "thread-19883019",
@@ -134,28 +137,28 @@
       "thread-19884213",
       "thread-19884396",
       "thread-19884798",
-      "thread-19884915",
       "thread-19885032",
       "thread-19885086",
       "thread-19885116",
       "thread-19885311",
       "thread-19885515",
-      "thread-19885917",
       "thread-19886058",
       "thread-19886082",
       "thread-19886610",
       "thread-19886634",
-      "thread-19886727",
       "thread-19886832",
-      "thread-19887933",
-      "thread-19888005"
+      "thread-19887177",
+      "thread-19887933"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
+      "thread-18822175",
+      "thread-19800771",
+      "thread-19868541",
       "thread-19871982",
-      "thread-19879083",
-      "thread-19879182",
+      "thread-19872009",
+      "thread-19873605",
       "thread-19881075",
       "thread-19881219",
       "thread-19883019",
@@ -163,21 +166,18 @@
       "thread-19884213",
       "thread-19884396",
       "thread-19884798",
-      "thread-19884915",
       "thread-19885032",
       "thread-19885086",
       "thread-19885116",
       "thread-19885311",
       "thread-19885515",
-      "thread-19885917",
       "thread-19886058",
       "thread-19886082",
       "thread-19886610",
       "thread-19886634",
-      "thread-19886727",
       "thread-19886832",
-      "thread-19887933",
-      "thread-19888005"
+      "thread-19887177",
+      "thread-19887933"
     ]
   },
   "trd_fishing_lure": {}
