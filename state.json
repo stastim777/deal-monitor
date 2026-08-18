@@ -94,7 +94,6 @@
   "slickdeals_frontpage_80_85_off": {
     "last_alert_at": "2026-08-04T03:34:13.897590+00:00",
     "seen_ids": [
-      "thread-19864452",
       "thread-19865928",
       "thread-19871226",
       "thread-19875759",
@@ -105,26 +104,26 @@
       "thread-19883430",
       "thread-19884054",
       "thread-19884264",
-      "thread-19885314",
       "thread-19885518",
       "thread-19885815",
       "thread-19885953",
       "thread-19886391",
       "thread-19886820",
-      "thread-19886955",
-      "thread-19887849",
+      "thread-19888227",
       "thread-19888758",
+      "thread-19888818",
+      "thread-19888989",
       "thread-19889106",
-      "thread-19889583",
+      "thread-19889508",
+      "thread-19889520",
       "thread-19889664",
       "thread-19890531",
-      "thread-19891212"
+      "thread-19891845"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
-      "thread-19864452",
       "thread-19865928",
       "thread-19871226",
       "thread-19875759",
@@ -135,25 +134,25 @@
       "thread-19883430",
       "thread-19884054",
       "thread-19884264",
-      "thread-19885314",
       "thread-19885518",
       "thread-19885815",
       "thread-19885953",
       "thread-19886391",
       "thread-19886820",
-      "thread-19886955",
-      "thread-19887849",
+      "thread-19888227",
       "thread-19888758",
+      "thread-19888818",
+      "thread-19888989",
       "thread-19889106",
-      "thread-19889583",
+      "thread-19889508",
+      "thread-19889520",
       "thread-19889664",
       "thread-19890531",
-      "thread-19891212"
+      "thread-19891845"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-19864452",
       "thread-19865928",
       "thread-19871226",
       "thread-19875759",
@@ -164,20 +163,21 @@
       "thread-19883430",
       "thread-19884054",
       "thread-19884264",
-      "thread-19885314",
       "thread-19885518",
       "thread-19885815",
       "thread-19885953",
       "thread-19886391",
       "thread-19886820",
-      "thread-19886955",
-      "thread-19887849",
+      "thread-19888227",
       "thread-19888758",
+      "thread-19888818",
+      "thread-19888989",
       "thread-19889106",
-      "thread-19889583",
+      "thread-19889508",
+      "thread-19889520",
       "thread-19889664",
       "thread-19890531",
-      "thread-19891212"
+      "thread-19891845"
     ]
   },
   "trd_fishing_lure": {}
