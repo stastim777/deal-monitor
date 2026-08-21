@@ -94,7 +94,6 @@
   "slickdeals_frontpage_80_85_off": {
     "last_alert_at": "2026-08-04T03:34:13.897590+00:00",
     "seen_ids": [
-      "thread-19875153",
       "thread-19884390",
       "thread-19897305",
       "thread-19897704",
@@ -104,11 +103,11 @@
       "thread-19900404",
       "thread-19900635",
       "thread-19900656",
-      "thread-19901082",
       "thread-19901205",
       "thread-19901955",
       "thread-19902276",
       "thread-19902672",
+      "thread-19903449",
       "thread-19903506",
       "thread-19903623",
       "thread-19903734",
@@ -118,13 +117,13 @@
       "thread-19905012",
       "thread-19905216",
       "thread-19905252",
+      "thread-19905273",
       "thread-19905297"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
-      "thread-19875153",
       "thread-19884390",
       "thread-19897305",
       "thread-19897704",
@@ -134,11 +133,11 @@
       "thread-19900404",
       "thread-19900635",
       "thread-19900656",
-      "thread-19901082",
       "thread-19901205",
       "thread-19901955",
       "thread-19902276",
       "thread-19902672",
+      "thread-19903449",
       "thread-19903506",
       "thread-19903623",
       "thread-19903734",
@@ -148,12 +147,12 @@
       "thread-19905012",
       "thread-19905216",
       "thread-19905252",
+      "thread-19905273",
       "thread-19905297"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-19875153",
       "thread-19884390",
       "thread-19897305",
       "thread-19897704",
@@ -163,11 +162,11 @@
       "thread-19900404",
       "thread-19900635",
       "thread-19900656",
-      "thread-19901082",
       "thread-19901205",
       "thread-19901955",
       "thread-19902276",
       "thread-19902672",
+      "thread-19903449",
       "thread-19903506",
       "thread-19903623",
       "thread-19903734",
@@ -177,6 +176,7 @@
       "thread-19905012",
       "thread-19905216",
       "thread-19905252",
+      "thread-19905273",
       "thread-19905297"
     ]
   },
