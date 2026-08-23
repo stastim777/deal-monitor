@@ -94,11 +94,10 @@
   "slickdeals_frontpage_80_85_off": {
     "last_alert_at": "2026-08-04T03:34:13.897590+00:00",
     "seen_ids": [
-      "thread-19861887",
+      "thread-19902048",
       "thread-19903302",
       "thread-19903656",
-      "thread-19905924",
-      "thread-19907244",
+      "thread-19907385",
       "thread-19909533",
       "thread-19909593",
       "thread-19910706",
@@ -109,26 +108,26 @@
       "thread-19911345",
       "thread-19911480",
       "thread-19911486",
-      "thread-19911564",
       "thread-19911591",
-      "thread-19911807",
       "thread-19911897",
       "thread-19912038",
       "thread-19912236",
       "thread-19912431",
+      "thread-19912692",
       "thread-19912755",
       "thread-19912764",
-      "thread-19912926"
+      "thread-19912926",
+      "thread-19912944",
+      "thread-19913064"
     ]
   },
   "slickdeals_frontpage_90_95_off": {
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
-      "thread-19861887",
+      "thread-19902048",
       "thread-19903302",
       "thread-19903656",
-      "thread-19905924",
-      "thread-19907244",
+      "thread-19907385",
       "thread-19909533",
       "thread-19909593",
       "thread-19910706",
@@ -139,25 +138,25 @@
       "thread-19911345",
       "thread-19911480",
       "thread-19911486",
-      "thread-19911564",
       "thread-19911591",
-      "thread-19911807",
       "thread-19911897",
       "thread-19912038",
       "thread-19912236",
       "thread-19912431",
+      "thread-19912692",
       "thread-19912755",
       "thread-19912764",
-      "thread-19912926"
+      "thread-19912926",
+      "thread-19912944",
+      "thread-19913064"
     ]
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-19861887",
+      "thread-19902048",
       "thread-19903302",
       "thread-19903656",
-      "thread-19905924",
-      "thread-19907244",
+      "thread-19907385",
       "thread-19909533",
       "thread-19909593",
       "thread-19910706",
@@ -168,16 +167,17 @@
       "thread-19911345",
       "thread-19911480",
       "thread-19911486",
-      "thread-19911564",
       "thread-19911591",
-      "thread-19911807",
       "thread-19911897",
       "thread-19912038",
       "thread-19912236",
       "thread-19912431",
+      "thread-19912692",
       "thread-19912755",
       "thread-19912764",
-      "thread-19912926"
+      "thread-19912926",
+      "thread-19912944",
+      "thread-19913064"
     ]
   },
   "trd_fishing_lure": {}
