@@ -36,7 +36,6 @@
     "seen_ids": [
       "t3_1u6qbio",
       "t3_1ujhhoc",
-      "t3_1wem40w",
       "t3_1wesbdm",
       "t3_1wf8gxe",
       "t3_1wfcmo3",
@@ -58,7 +57,8 @@
       "t3_1wjr2hf",
       "t3_1wjruyi",
       "t3_1wk086h",
-      "t3_1wk6osa"
+      "t3_1wk6osa",
+      "t3_1wkn1ge"
     ]
   },
   "slickdeals_frontpage": {
@@ -94,15 +94,11 @@
   "slickdeals_frontpage_80_85_off": {
     "last_alert_at": "2026-09-02T18:40:08.823504+00:00",
     "seen_ids": [
-      "thread-20013801",
       "thread-20015046",
-      "thread-20019687",
       "thread-20027565",
       "thread-20028966",
-      "thread-20030994",
       "thread-20031459",
       "thread-20031573",
-      "thread-20031750",
       "thread-20031828",
       "thread-20032002",
       "thread-20032092",
@@ -112,10 +108,14 @@
       "thread-20032989",
       "thread-20033286",
       "thread-20033310",
+      "thread-20033994",
       "thread-20034009",
-      "thread-20034375",
+      "thread-20034255",
+      "thread-20034531",
+      "thread-20034639",
       "thread-20034780",
       "thread-20034837",
+      "thread-20034990",
       "thread-20035104",
       "thread-20035707",
       "thread-20035773"
@@ -124,15 +124,11 @@
   "slickdeals_frontpage_90_95_off": {
     "last_alert_at": "2026-08-05T16:51:15.789008+00:00",
     "seen_ids": [
-      "thread-20013801",
       "thread-20015046",
-      "thread-20019687",
       "thread-20027565",
       "thread-20028966",
-      "thread-20030994",
       "thread-20031459",
       "thread-20031573",
-      "thread-20031750",
       "thread-20031828",
       "thread-20032002",
       "thread-20032092",
@@ -142,10 +138,14 @@
       "thread-20032989",
       "thread-20033286",
       "thread-20033310",
+      "thread-20033994",
       "thread-20034009",
-      "thread-20034375",
+      "thread-20034255",
+      "thread-20034531",
+      "thread-20034639",
       "thread-20034780",
       "thread-20034837",
+      "thread-20034990",
       "thread-20035104",
       "thread-20035707",
       "thread-20035773"
@@ -153,15 +153,11 @@
   },
   "slickdeals_frontpage_price_mistake": {
     "seen_ids": [
-      "thread-20013801",
       "thread-20015046",
-      "thread-20019687",
       "thread-20027565",
       "thread-20028966",
-      "thread-20030994",
       "thread-20031459",
       "thread-20031573",
-      "thread-20031750",
       "thread-20031828",
       "thread-20032002",
       "thread-20032092",
@@ -171,10 +167,14 @@
       "thread-20032989",
       "thread-20033286",
       "thread-20033310",
+      "thread-20033994",
       "thread-20034009",
-      "thread-20034375",
+      "thread-20034255",
+      "thread-20034531",
+      "thread-20034639",
       "thread-20034780",
       "thread-20034837",
+      "thread-20034990",
       "thread-20035104",
       "thread-20035707",
       "thread-20035773"
